@@ -1,17 +1,26 @@
 # 📚 Linux Glossary
 
-> **My Personal Linux Dictionary 🐧**
+> **🐧 My Personal Linux Dictionary**
 
 Welcome to my Linux Glossary! 👋
 
-This isn't copied from Google, Linux documentation, or ChatGPT.
+This file contains Linux concepts that finally **clicked for me** during my **365-Day Cybersecurity Journey**.
 
-This file contains Linux terms that finally **made sense to me** during my **365-Day Cybersecurity Journey**.
+Instead of copying definitions from books or documentation, I'm documenting them in my own words after understanding them through hands-on practice.
 
-Some definitions may look simple—and that's intentional. Future Me should be able to open this file six months later and understand every concept in under a minute.
+Some definitions may look simple—and that's intentional. Future Me should be able to revisit this file six months later and understand every concept in under a minute.
 
 > 💡 **Rule:** If I haven't understood a concept yet, it doesn't belong here.
 
+---
+
+> ⚠️ **Note**
+>
+> This glossary is intentionally written in simple language.
+>
+> It reflects **my understanding** of Linux concepts as I learn them through hands-on practice.
+>
+> The goal isn't to replace official documentation—it's to build a personal knowledge base that I can revisit and continuously improve.
 ---
 
 # 📂 Navigation
@@ -383,10 +392,10 @@ I'll add these only after I genuinely understand them.
 
 ---
 
-> 💙 **Little Reminder to Future Me**
-
-Don't rush.
-
-The goal isn't to memorize Linux.
-
-The goal is to understand it well enough that one day I can investigate incidents, troubleshoot systems, and confidently work as a cybersecurity professional.
+💙 **Little Reminder to Future Me**
+>
+> Don't rush.
+>
+> The goal isn't to memorize Linux.
+>
+> The goal is to understand it well enough that one day I can investigate incidents, troubleshoot systems, and confidently work as a cybersecurity professional.
